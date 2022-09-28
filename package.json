@@ -2,7 +2,7 @@
   "name": "react-reservice",
   "version": "1.0.0",
   "description": "A minimal react state management via proxy",
-  "main": "./lib/src/index.js",
+  "main": "./lib/index.js",
   "files": [
     "lib/**/*"
   ],
@@ -41,10 +41,10 @@
   "homepage": "https://github.com/pop0030/react-reservice#readme",
   "devDependencies": {
     "semantic-release": "^19.0.5",
-    "typescript": "^4.8.4"
+    "typescript": "^4.8.4",
+    "@types/react": "*"
   },
   "peerDependencies": {
-    "@types/react": ">=16",
     "react": ">=16"
   }
 }
