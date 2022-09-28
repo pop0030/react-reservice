@@ -1,7 +1,7 @@
 {
   "name": "react-reservice",
   "version": "1.0.0",
-  "description": "A minial react state management via proxy",
+  "description": "A minimal react state management via proxy",
   "main": "./lib/src/index.js",
   "files": [
     "lib/**/*"
